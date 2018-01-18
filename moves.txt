@@ -1,0 +1,8 @@
+Player misses: A1
+Computer misses: A2
+Player misses: A2
+Computer misses: B1
+Player hits: A3
+Player misses: A4
+Computer hits: D6
+Computer misses: D7

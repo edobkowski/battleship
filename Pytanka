@@ -1,0 +1,8 @@
+FullScreenMode
+getch()
+kolory
+
+
+
+INPUT użytkownika: litera-cyfra-cyfra -> litera->cyfra?
+Generator bez przekierowania na plik i tak zapisze ustawienia do defaultowego pliku settings.txt i dodatkowo wyswietli je w konsoli. Z przekierowaniem powstaną 2 pliki
